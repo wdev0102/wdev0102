@@ -1,4 +1,4 @@
-# WDEV PROFILE
+# Hi, there!🤖
 
 In the past 14 years I have worked many areas of development. 
 I started out in PHP / Javascript / Ecommerce development. 
