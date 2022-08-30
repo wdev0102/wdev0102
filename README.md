@@ -21,8 +21,7 @@ I am familiar with staking, play 2 earn, tokenomics, creating game tokens, verif
 Please feel free to contact me with your blockchain based projects, I am eager for more work in this area!
 
 ## 🏆My Skill are:
-    ### SERVICE :
-    ```bash
+    SERVICE :
     - Blockchain(BitCoin | Ethereum | Solana | Binance Smart Chain(BSC) | Polygon | Fantom | WAX)
     o Decentralized Finance(Defi)
     o NFT marketplace
@@ -39,7 +38,7 @@ Please feel free to contact me with your blockchain based projects, I am eager f
     - HTML5, CSS3, JavaScript, MySQL, PHP, Laravel, Codeigniter
     - C, C++, C#
     - WordPress, Shopify
-    ```
+    
 ```bash
 Skype:   live:.cid.e251c0fdf77dac7a
 Gmail:  wdev0102@gmail.com
