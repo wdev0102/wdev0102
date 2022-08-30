@@ -1,3 +1,5 @@
+# WDEV PROFILE
+
 In the past 14 years I have worked many areas of development. I started out in PHP / Javascript / Ecommerce development. I worked to make the most of many platforms such Wordpress, Shopify, Magento 1 + 2 and others. I also designed and developed many custom platforms for clients who had requirements that exceeded the capabilities of pre-built platforms.
 
 Over the course of completing many projects, I started to expand past web technologies and started developing more advanced / real time back end systems. I gained experience with Node.js, Python, Firebase, MongoDb and others. I also gained a good amount of experience working with React and React Native for slick front-ends.
