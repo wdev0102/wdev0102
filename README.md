@@ -9,3 +9,31 @@ Now, I have moved in to Smart Contract development with experience working on mu
 I have designed, developed, and released a NFT game project which is still on-going. I am familiar with staking, play 2 earn, tokenomics, creating game tokens, verifiable randomness and more.
 
 Please feel free to contact me with your blockchain based projects, I am eager for more work in this area!
+
+
+🏆My Skill are:
+    SERVICE :
+    - Blockchain(BitCoin | Ethereum | Solana | Binance Smart Chain(BSC) | Polygon | Fantom | WAX)
+    o Decentralized Finance(Defi)
+    o NFT marketplace
+    o Development and Audit Smart Contract
+    o DEX Development
+    
+    - Full-stack development
+    o Web based system development(PHP, Laravel, NodeJS...)
+    o Ecommerce website development(Woocommerce, Shopify...)
+
+    EXPERIENCE :
+    - Solidity, TronWeb, Web3.js
+    - NodeJS | ReactJs | VueJs | AngularJS
+    - HTML5, CSS3, JavaScript, MySQL, PHP, Laravel, Codeigniter
+    - C, C++, C#
+    - WordPress, Shopify
+    
+Skype:   live:.cid.e251c0fdf77dac7a
+Gmail:  wdev0102@gmail.com
+Github: https://github.com/wdev0102
+Portfolio: https://www.behance.net/rafaladamski
+Discord: wdev0102#9034
+Chatwork: wdev0102
+
