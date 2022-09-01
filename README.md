@@ -1,6 +1,6 @@
 # Hi, there!🤗
 
-In the past 14 years I have worked many areas of development. 
+In the past 10 years I have worked many areas of development. 
 I started out in PHP / Javascript / Ecommerce development. 
 I worked to make the most of many platforms such Wordpress, Shopify, Magento 1 + 2 and others. 
 I also designed and developed many custom platforms for clients who had requirements that exceeded the capabilities of pre-built platforms.
