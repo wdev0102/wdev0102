@@ -39,6 +39,7 @@ Please feel free to contact me with your blockchain based projects, I am eager f
     - C, C++, C#
     - WordPress, Shopify
     
+## 🏆My contact:
 ```bash
 Skype:   live:.cid.e251c0fdf77dac7a
 Gmail:  wdev0102@gmail.com
