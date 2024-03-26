@@ -39,12 +39,3 @@ Please feel free to contact me with your blockchain based projects, I am eager f
     - C, C++, C#
     - WordPress, Shopify
     
-## 🏆My contact:
-```bash
-Skype:   live:.cid.e251c0fdf77dac7a
-Gmail:  wdev0102@gmail.com
-Github: https://github.com/wdev0102
-Portfolio: https://www.behance.net/rafaladamski
-Discord: wdev0102#9034
-Chatwork: wdev0102
-```
